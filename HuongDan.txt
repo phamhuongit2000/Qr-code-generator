@@ -1,0 +1,5 @@
+Yêu cầu: 
+  - .Net frameword 4.6.1
+Cách chạy:
+  - Chạy file .\Qr\Qr\bin\Debug\Qr.exe và làm theo hướng dẫn
+  - Có 2 logo sẵn ở thư mục .\logo. Có thể tạo QR kèm logo khác tùy ý.

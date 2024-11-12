@@ -1,0 +1,14 @@
+D:\C#\Qr\Qr\obj\Debug\Qr.csproj.AssemblyReference.cache
+D:\C#\Qr\Qr\obj\Debug\Qr.csproj.CoreCompileInputs.cache
+D:\C#\Qr\Qr\bin\Debug\Qr.exe.config
+D:\C#\Qr\Qr\bin\Debug\Qr.exe
+D:\C#\Qr\Qr\bin\Debug\Qr.pdb
+D:\C#\Qr\Qr\bin\Debug\System.ValueTuple.dll
+D:\C#\Qr\Qr\bin\Debug\zxing.dll
+D:\C#\Qr\Qr\bin\Debug\zxing.presentation.dll
+D:\C#\Qr\Qr\bin\Debug\System.ValueTuple.xml
+D:\C#\Qr\Qr\bin\Debug\zxing.xml
+D:\C#\Qr\Qr\bin\Debug\zxing.presentation.xml
+D:\C#\Qr\Qr\obj\Debug\Qr.csproj.CopyComplete
+D:\C#\Qr\Qr\obj\Debug\Qr.exe
+D:\C#\Qr\Qr\obj\Debug\Qr.pdb
